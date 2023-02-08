@@ -1,3 +1,2 @@
 #!/bin/bash
-task0 where am I
- 
+task0 where am I  
